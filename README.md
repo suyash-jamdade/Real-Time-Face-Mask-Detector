@@ -1,4 +1,4 @@
-# Real-Time-Face-Mask-Detector
+# Real Time Face Mask Detector
 
 Real time sensors count all people and recognize wheather a person is wearing face mask or not and sends alerts and notification when camera captures unrecognized face.
 
